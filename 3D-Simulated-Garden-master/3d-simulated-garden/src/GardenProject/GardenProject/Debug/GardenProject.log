@@ -1,0 +1,36 @@
+﻿Build started 2023/12/27 14:15:07.
+     1>Project "C:\Users\86152\Desktop\3D-Simulated-Garden-master\3d-simulated-garden\src\GardenProject\GardenProject\GardenProject.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChangeView.cpp cout.cpp Flower.cpp GardenMain.cpp Background.cpp Keyboard.cpp Mouse.cpp Save.cpp Snow.cpp Snowground.cpp Tree.cpp
+         Tree.cpp
+         Snowground.cpp
+         Snow.cpp
+     1>c:\users\86152\desktop\3d-simulated-garden-master\3d-simulated-garden\src\gardenproject\gardenproject\snow.cpp(151): warning C4018: '<' : signed/unsigned mismatch
+         Save.cpp
+         Mouse.cpp
+         Keyboard.cpp
+     1>c:\users\86152\desktop\3d-simulated-garden-master\3d-simulated-garden\src\gardenproject\gardenproject\keyboard.cpp(115): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         Background.cpp
+         GardenMain.cpp
+         Flower.cpp
+         cout.cpp
+         ChangeView.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\86152\Desktop\3D-Simulated-Garden-master\3d-simulated-garden\src\GardenProject\Debug\GardenProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\86152\Desktop\3D-Simulated-Garden-master\3d-simulated-garden\src\GardenProject\Debug\GardenProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\86152\Desktop\3D-Simulated-Garden-master\3d-simulated-garden\src\GardenProject\Debug\GardenProject.lib" /MACHINE:X86 Debug\ChangeView.obj
+         Debug\cout.obj
+         Debug\Flower.obj
+         Debug\GardenMain.obj
+         Debug\Background.obj
+         Debug\Keyboard.obj
+         Debug\Mouse.obj
+         Debug\Save.obj
+         Debug\Snow.obj
+         Debug\Snowground.obj
+         Debug\Tree.obj
+         GardenProject.vcxproj -> C:\Users\86152\Desktop\3D-Simulated-Garden-master\3d-simulated-garden\src\GardenProject\Debug\GardenProject.exe
+     1>Done Building Project "C:\Users\86152\Desktop\3D-Simulated-Garden-master\3d-simulated-garden\src\GardenProject\GardenProject\GardenProject.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.91
